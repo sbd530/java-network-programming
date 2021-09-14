@@ -1,4 +1,4 @@
-package UrlConnection;
+package urlConnection;
 
 public class UrlConnectionTest {
 
